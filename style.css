@@ -49,8 +49,6 @@ footer{margin: 50px 0;}
 #page-content-wrapper{width:100%;position:absolute;padding:15px;}
 #wrapper.toggled #page-content-wrapper{position:absolute;margin-right:-250px;}
 
- 
-
 /* Sidebar Styles */
 .nav{position:absolute;top:50px;width:250px;margin:0;padding:0;list-style:none;}
 .navbar-brand{font-size:2em; font-weight:300;}
